@@ -44,6 +44,6 @@ window.webpackChunkdiscord_app.pop();
 console.log('%cWorked!', 'font-size: 50px');
 console.log(`%cYou now have your token in the clipboard!`, 'font-size: 16px');
 ```
-
+- you can use https://railway.com/ or others. ( You NEED add In variables DISCORD_TOKEN and add youre Discord Token in there ) 
 ## Star History
 Please give it a star if you like that ( https://github.com/mowgli-exe/self-bot/ )
