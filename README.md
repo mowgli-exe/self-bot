@@ -1,4 +1,5 @@
 https://discord.gg/36EAyW5Z4F
+no support for retarded ppl btw 
 > [!WARNING]
 > **I don't take any responsibility for blocked Discord accounts that used this module.**
 
