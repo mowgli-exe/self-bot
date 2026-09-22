@@ -3,8 +3,8 @@ import time
 import discord
 from discord.ext import commands, tasks
 
-MY_ID = 1337973255977570345
-APPLICATION_ID = 1495797765027008533
+MY_ID = YOURE_DISCORD_ID
+APPLICATION_ID = 676767
 
 banned_users = set()
 muted_users = {}
