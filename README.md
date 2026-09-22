@@ -18,7 +18,7 @@ https://discord.gg/36EAyW5Z4F
 
 ## Get Token ?
 
-- Based: [findByProps](https://discord.com/channels/603970300668805120/1085682686607249478/1085682686607249478)
+- open discord  in web and run code in below 
 
 <strong>Run code (Discord Console - [Ctrl + Shift + I])</strong>
 
