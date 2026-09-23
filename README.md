@@ -9,7 +9,7 @@ no support for retarded ppl btw
 ## Features (User)
 - [x] Auto Message
 - [x] Auto Mute for 30 sec ( protect for spammer ) 
-- [X] .ban (ping user ) and for unbann .unbann (user) @ Only Owner can do that.
+- [X] .ban (ping user ) and for unbann .unban (user) @ Only Owner can do that.
 - [X] .ping @ Owner Only can do that
 
 ## Installation
