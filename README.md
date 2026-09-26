@@ -67,7 +67,7 @@ Edit `main.py`:
 
 ```python
 MY_ID = 123456789012345678          # your Discord user ID
-APPLICATION_ID = 123456789012345678 # from Discord Developer Portal
+APPLICATION_ID = xxxx # from Discord Developer Portal
 ```
 
 Set your token as an environment variable (never hardcode it):
